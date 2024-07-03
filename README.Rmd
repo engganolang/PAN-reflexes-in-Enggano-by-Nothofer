@@ -1,0 +1,28 @@
+---
+output: github_document
+bibliography: ref.bib
+link-citations: true
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  echo = FALSE,
+  comment = "#>"
+)
+```
+
+# Overview
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+This repository provides the tabular version of the regular sound changes from Proto-Austronesian into Enggano presented in Nothofer [-@nothofer1992, 21], the original of which can be seen below.
+
+```{r orig}
+knitr::include_graphics("snippet-of-source.png")
+```
+
+# Reference
