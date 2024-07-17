@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12754270.svg)](https://doi.org/10.5281/zenodo.12754270)
 [![](https://img.shields.io/badge/doi-10.17605/OSF.IO/FMG7C-lightblue.svg)](https://doi.org/10.17605/OSF.IO/FMG7C)
 <!-- badges: end -->
 
@@ -26,7 +27,7 @@ of the regular sound changes from Proto-Austronesian into Enggano
 presented in linear order in Nothofer ([1992, 21](#ref-nothofer1992)),
 the original of which is shown below.
 
-![](snippet-of-source.png)<!-- -->
+<img src="snippet-of-source.png" width="1851" />
 
 # Reference
 

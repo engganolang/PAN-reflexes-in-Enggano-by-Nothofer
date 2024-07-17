@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 # Overview
 
 <!-- badges: start -->
-[![](https://img.shields.io/badge/doi-10.17605/OSF.IO/FMG7C-lightblue.svg)](https://doi.org/10.17605/OSF.IO/FMG7C)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12754270.svg)](https://doi.org/10.5281/zenodo.12754270) [![](https://img.shields.io/badge/doi-10.17605/OSF.IO/FMG7C-lightblue.svg)](https://doi.org/10.17605/OSF.IO/FMG7C)
 <!-- badges: end -->
 
 Please cite this repository AND the original source [@nothofer1992] as follows:
